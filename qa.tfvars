@@ -1,0 +1,5 @@
+ami= "i-0d04eb8cf86d7e2a4"
+instance_type = "t2.micro"
+environment = "qa"
+instanceName = "qapostSQL"
+team = "qa team"
